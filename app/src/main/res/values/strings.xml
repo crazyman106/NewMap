@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewMap</string>
+    <string name="main_task">任务</string>
+    <string name="main_my">我的</string>
+</resources>
